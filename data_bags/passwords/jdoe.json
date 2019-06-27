@@ -1,0 +1,10 @@
+{
+  "id": "jdoe",
+  "password": {
+    "encrypted_data": "SUJoJGNdPsMuRKP1nFiQzJZQxGbnaxWzzEstU4HwuYiviF3DueFVbm+bMuhV\nU2NBmZTJSWg=\n",
+    "iv": "sU4GzO+TmfOQtTDr\n",
+    "auth_tag": "wN/AmM46IJqLTckwIfdkDw==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}
